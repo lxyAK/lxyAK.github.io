@@ -11,6 +11,16 @@
   src: url('//at.alicdn.com/t/font_1468920013_3111575.eot')\0; /* ie8 fix */
 }
 
+@font-face {
+  font-family: 'iconfont';  /* project id 2113115 */
+  src: url('//at.alicdn.com/t/font_2113115_a340wopivk.eot');
+  src: url('//at.alicdn.com/t/font_2113115_a340wopivk.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2113115_a340wopivk.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2113115_a340wopivk.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2113115_a340wopivk.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2113115_a340wopivk.svg#iconfont') format('svg');
+}
+
 .r-icon {
   font-family: "r-icon" !important;
   font-size: 16px;
