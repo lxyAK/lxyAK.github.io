@@ -156,13 +156,12 @@ footer .logo a {
 }
 
 footer .logo .r-mail {
-  background-color: rgb(0, 171, 108);
   color: #fff;
   opacity: 0.5;
 }
 
 footer .logo .r-shu {
-  background-color: rgb(88, 70, 19);
+  background-color: rgb(0, 171, 108);
   color: #fff;
   opacity: 0.5;
 }
@@ -174,9 +173,9 @@ footer .logo .r-github {
 }
 
 footer .logo .r-weibo {
-  background-color: rgb(150, 14, 14);
   color: #fff;
   opacity: 0.5;
+  font-size: 30px;
 }
 
 footer .logo a:hover {

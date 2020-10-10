@@ -16,6 +16,14 @@ body {
   box-sizing: border-box;
 }
 
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentColor;
+  overflow: hidden;
+}
+
 .content:not(.visible) {
   display: none;
 }
@@ -173,7 +181,7 @@ header p {
 }
 
 header img {
-  width: 175px;
+  width: 150px;
 }
 
 .cbp_tmtimeline {
