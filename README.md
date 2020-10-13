@@ -111,17 +111,15 @@ Node音乐推荐应用
 
 Github源码
 
-简单介绍： 它是一个随机推荐音乐的平台，支持登录，搜索，点赞，点赞记录与历史播放记录。
+简单介绍： 它是一个简单的博客平台，支持登录，搜索，评论，用户编辑。
 
-这个应用是我的启蒙项目，时值第一次接触前端，这是学校的web programming课上的Final Project. 临危受命，被组员们强行抱了一把大腿，从零开始，花了大概5天，做出了第一个Node应用。
+这个应用是我的启蒙项目，时值第一次接触前端和后端的结合，做出了第一个Node应用。
 
-期间接触学习了: XSS防御，密码传输salt，bcrypt处理，Promise异步控制，ES6语法，NoSQL，Accessibility等概念.
+期间接触学习了: XSS防御，密码MD5和用户session记录，Promise异步控制，ES6语法，MongoDB、express、Mongoose、模板引擎，模块化等概念，为后期学习Vue，SPA应用，前后端分离打下了基础。
 
-最后这个project评定为TOP3，总结复盘：经验欠缺，一些细节场景并没有考虑的周全，比如表单验证，AJAX防止多次触发等。
+最后这个project评定为TOP3，总结复盘：经验欠缺，一些细节场景并没有考虑的周全，比如表单验证，AJAX防止多次触发等。之后便带着这些脑海里挥之不去的疑惑和遗憾，投入前端学习的生涯。
 
-之后便带着这些脑海里挥之不去的疑惑和遗憾，投入前端学习的生涯。
-
-技术栈： Node + Express + Mongoose + ejs + passport + Semantic-UI
+技术栈： Node + Express + Mongoose + art-template + Bootstrap
 
 联系我
 
