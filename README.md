@@ -7,7 +7,6 @@
 ---
 
 * 姓名：刘冉
-* 年龄：31
 * 所在地：武汉
 
 ### 教育背景
@@ -54,74 +53,58 @@
 
 ## 个人项目
 
----
 
-### CoderPad-写作+新闻+音乐集成应用
+### vue-mobile-project-移动端评论+新闻+商品购物集成应用
 
-- 在线预览
 
-- Github源码
+- [Github源码]: https://github.com/lxyAK/vue-mobelie-project
 
-- CoderPad是一个在线集成 markdown文本编辑器 + 技术社区新闻阅读 + 音乐(由于时间原因，未完成) 的综合应用. 应用了更多的React生态流行库，以应对复杂交互，异步流程控制，性能优化等场景。
+  
 
-- 部署： LeanCloud + Node + Express
+- vue-mobile-project是一个基于Vue全家桶开发的移动端SPA应用，在线集成新闻阅读 + 评论回复 + 商品购物 的综合应用.应用了更多的Vue生态流行库，以应对异步流程控制，性能优化等场景。
 
-- 技术栈： React + Redux + React Router V4 + Redux Saga + Immutable + Reselect + Material UI + Styled Components + Webpack
+- 部署： MongoDB + Node + Express
 
-- 这次项目作为深入实践，遇到不少问题，细节分析请移步： 链接CoderPad
+- 技术栈： Vue + Vue-router + Vue-cli + VueX + Mint-UI + MUI + vue-preview + Vue-axios + Webpack
 
-- 后台请求转发API有限制，由于部署的是免费开发版，超过最大限制后会强制停止服务器，如果遇到提示超过限制，请谅解，我会重新部署。
+
+
+- 后台部署在本地，还不能在线展示，可以github一下。后期会部署在云上请谅解。
 
 ***
 
-### Byemess-单页在线Todo应用
+### shop-PC端SPA电商后台管理系统
 
-在线预览
 
-Github源码
+- [Github源码]: https://github.com/lxyAK/vue-shop
 
-Byemess是一个轻量级单页在线待办事项管理应用，支持注册，支持增删改查，云同步，视图切换，日期分组等功能。采用最新技术生态，ES6/ES7语法，追求最佳实践。
+  
 
-部署： LeanCloud + Node + Express
+- shop是一个基于Vue全家桶开发的单页面SPA，支持注册，用户权限管理，商品订单管理，采用最新技术生态，ES6/ES7语法，追求最佳实践。
 
-技术栈： React + Redux + React Router V4 + Styled Components + Material UI + Webpack
+- 部署： MongoDB + Node + Express
 
-项目更多介绍+问题+解决方案请移步： 链接Byemess
+- 技术栈： Vue + Vue-router + Vue-cli + VueX + Element-UI + MUI + vue-preview + Vue-axios + Webpack
 
-上手react过程中做了这几件事：
 
-用心的DEMO们
-我的Redux入门小书
-总结Redux思维导图
-组件化商业首页
 
-在线预览
+### Node音乐推荐应用
 
-Github源码
+- [Github源码]: https://github.com/lxyAK/node-blog/tree/reply
 
-这个项目是对组件封装以及代码打包的实践.
+  
 
-主要组件包括：轮播、Tab跟踪、AJAX封装、JSONP封装、无限加载、懒加载、回到顶部。对于新闻无限加载部分使用过自己封装的瀑布流插件，由于会产生白边，放弃使用。由于涉及较多dom操作，选择使用jQuery提高开发效率。
+- 简单介绍： 它是一个简单的博客平台，支持登录，搜索，评论，markdown编辑。
 
-整体页面使用webpack打包，也使用了requireJS作为对比，理解CMD&AMD差异。
+- 这个应用是我的启蒙项目，时值第一次接触前端和后端的结合，做出了第一个Node应用。
 
-查看更多封装组件和demo： 我是链接
+- 期间接触学习了: XSS防御，密码MD5和用户session记录，Promise异步控制，ES6语法，MongoDB、express、Mongoose、模板引擎，模块化等概念，为后期学习Vue，SPA应用，前后端分离打下了基础。
 
-Node音乐推荐应用
+- 最后这个project评定为TOP3，总结复盘：经验欠缺，一些细节场景并没有考虑的周全，比如表单验证，AJAX防止多次触发等。之后便带着这些脑海里挥之不去的疑惑和遗憾，投入前端学习的生涯。
 
-Github源码
+- 技术栈： Node + Express + Mongoose + art-template + Bootstrap
 
-简单介绍： 它是一个简单的博客平台，支持登录，搜索，评论，用户编辑。
-
-这个应用是我的启蒙项目，时值第一次接触前端和后端的结合，做出了第一个Node应用。
-
-期间接触学习了: XSS防御，密码MD5和用户session记录，Promise异步控制，ES6语法，MongoDB、express、Mongoose、模板引擎，模块化等概念，为后期学习Vue，SPA应用，前后端分离打下了基础。
-
-最后这个project评定为TOP3，总结复盘：经验欠缺，一些细节场景并没有考虑的周全，比如表单验证，AJAX防止多次触发等。之后便带着这些脑海里挥之不去的疑惑和遗憾，投入前端学习的生涯。
-
-技术栈： Node + Express + Mongoose + art-template + Bootstrap
-
-联系我
+### 联系我
 
 - 微信：注明-工作
 
