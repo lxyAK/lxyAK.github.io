@@ -268,21 +268,21 @@ header img {
   background-size: 20px;
 }
 
-.i-react:before {
+.i-vue:before {
   content: "";
   display: block;
   width: 40px;
   height: 40px;
-  background: url("../logo/logo-react.png") 50% 50% no-repeat;
+  background: url("../logo/vue_logo.png") 50% 50% no-repeat;
   background-size: 22px;
 }
 
-.i-redux:before {
+.i-mint:before {
   content: "";
   display: block;
   width: 40px;
   height: 40px;
-  background: url("../logo/redux.png") 50% 50% no-repeat;
+  background: url("../logo/mint-ui_logo.png") 50% 50% no-repeat;
   background-size: 22px;
 }
 
@@ -304,12 +304,12 @@ header img {
   background-size: 22px;
 }
 
-.i-saga:before {
+.i-express:before {
   content: "";
   display: block;
   width: 40px;
   height: 40px;
-  background: url("../logo/saga.png") 50% 50% no-repeat;
+  background: url("../logo/express_logo.png") 50% 50% no-repeat;
   background-size: 22px;
 }
 
