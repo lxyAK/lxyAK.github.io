@@ -51,8 +51,9 @@
 
 - 追求风格优雅，整洁的代码。 非常喜欢写注释。
 
-## 个人项目
+### 个人项目
 
+---
 
 ### vue-mobile-project-移动端评论+新闻+商品购物集成应用
 
@@ -67,18 +68,13 @@
 
 - 技术栈： Vue + Vue-router + Vue-cli + VueX + Mint-UI + MUI + vue-preview + Vue-axios + Webpack
 
-
-
 - 后台部署在本地，还不能在线展示，可以github一下。后期会部署在云上请谅解。
 
-***
 
 ### shop-PC端SPA电商后台管理系统
 
 
 - [Github源码]: https://github.com/lxyAK/vue-shop
-
-  
 
 - shop是一个基于Vue全家桶开发的单页面SPA，支持注册，用户权限管理，商品订单管理，采用最新技术生态，ES6/ES7语法，追求最佳实践。
 
